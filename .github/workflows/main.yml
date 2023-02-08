@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: prestationservicedylankenmogne
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: ${{ secrets.KyserCode }}
         server-dir : public_html/
